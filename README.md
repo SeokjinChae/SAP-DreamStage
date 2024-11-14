@@ -1,6 +1,9 @@
 # SAP-DreamStage
 차세대 ERP 시스템 도입
 
+가상의 시나리오를 바탕으로 제작하였으며, 신세계i&c 직원이 아닌 취업 과정 중 진행한 pt 발표 자료입니다.
+
+현업과 다른 부분이 있더라도 양해해 주시길 바랍니다.
 ## 👩‍💻 발표자료  
 - <a href="https://drive.google.com/file/d/1NvWyOFCkqtiNB_UUnQ8ZrB_FoDqq0NEY/view?usp=sharing"> 📎ppt 바로가기 </a>
 
