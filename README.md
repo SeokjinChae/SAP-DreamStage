@@ -7,9 +7,11 @@
 
 피드백
 
-fi영역 도입시 리스크에 대한 보완전략이 상충되다.
+1. fi영역 도입시 리스크에 대한 보완전략이 서로 상충되다.
 
-또한 리스크가 fi영역에 국한되지 않았다.
+2. 리스크가 fi영역에 국한되지 않았다.
+
+3. 생성형 ai를 사용해서 sap 구축 비용이 터무니 없다.
 ## 👩‍💻 발표자료  
 - <a href="https://drive.google.com/file/d/1NvWyOFCkqtiNB_UUnQ8ZrB_FoDqq0NEY/view?usp=sharing"> 📎ppt 바로가기 </a>
 
